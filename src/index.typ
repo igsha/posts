@@ -1,2 +1,2 @@
 = Посты
-+ #link("./CognitiveBiases.html")[Когнитивные ошибки]
++ #link("./cognitive-biases.html")[Ошибки мышления]
